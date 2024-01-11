@@ -1,4 +1,4 @@
-.mvn/
-.vscode/
+/.mvn
+/.vscode
 /target
 mypw.txt
